@@ -21,4 +21,4 @@ venv/
 .DS_Store
 Thumbs.db
 
-income_and_expenditure/settings.py
+#income_and_expenditure/settings.py
